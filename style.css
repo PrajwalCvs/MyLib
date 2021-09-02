@@ -1,0 +1,96 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+}
+.navthisbar{
+background-color:#B61919;
+}
+.wel,.change{
+  font-size: 600%;
+  text-align: center;
+position: relative;
+top: 140px;
+  color: #FFDFAF;
+  z-index: 1;
+}
+.library{
+  margin-top: -380px;
+  width: 100%;
+  height: 830px;
+filter: blur(3px);
+}
+.lib-height{
+  margin-top: -510px;
+  width: 100%;
+  height: 830px;
+filter: blur(3px);
+}
+.fas{
+  position: relative;
+  top: 730px;
+  color: #FFDFAF;
+  z-index: 2;
+  padding: 20px;
+
+}
+.fab{
+padding:20px;
+  position: relative;
+  top: 730px;
+  color: #FFDFAF;
+  z-index: 2;
+}
+p{
+  text-align: center;
+  position: relative;
+  top: 730px;
+  color: #FFDFAF;
+  z-index: 2;
+}
+.para{
+  font-size:130%;
+  line-height: 1.5;
+  margin-left: 100px;
+  margin-right: 100px;
+position: relative;
+top: 100px;
+  color: #F6D167;
+  z-index: 1;
+}
+.hid{
+  visibility: hidden;
+}
+/* button */
+.btnstart{
+  position: relative;
+  top: 500px;
+  color: #FFDFAF;
+  z-index: 2;
+}
+.btnstop{
+  position: relative;
+  top: 500px;
+  color: #FFDFAF;
+  z-index: 2;
+}
+.btnrestart{
+  position: relative;
+    top: 500px;
+    color: #FFDFAF;
+    z-index: 2;
+}
+.btn2{
+  position: relative;
+  top: 540px;
+  color: #FFDFAF;
+  z-index: 2;
+  visibility: hidden;
+}
+.access{
+text-align: center;
+position: relative;
+top: 730px;
+color: #FFDFAF;
+z-index: 2;
+visibility:visible;
+}
